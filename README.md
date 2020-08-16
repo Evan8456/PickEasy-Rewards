@@ -6,7 +6,7 @@ Link: https://pick-easy.herokuapp.com/
 
 Localhost Instructions:
 
-1. Create a .env file in the pick-easy folder with the following fields:
+1. Create a `.env` file in the pick-easy folder with the following fields:
 	`JWT_SECRET=<insert value> 
 	S3_SECRET_ACCESS_KEY= <insert value>
 	S3_ACCESS_KEY_ID=<insert value>
