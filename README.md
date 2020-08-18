@@ -45,4 +45,4 @@ https://pick-easy.herokuapp.com/
 
 ### Made by: [Luke Zhang](https://github.com/Smawllie), Evan Ng, [Anthony Alaimo](https://github.com/AnthonyAlaimo), [Pravinthan Prabagaran](https://github.com/pravinthan), [Jeremy (Chi Jian) Hsu](https://github.com/Jer3myHsu)
 
-![Alt text](pick-easy/assets/demo.png?raw=true "Demo")
+![Alt text](pick-easy/assets/demo1.png?raw=true "Demo")
