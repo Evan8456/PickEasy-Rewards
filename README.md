@@ -2,6 +2,9 @@
 
 This project contains a loyalty system web app for a start-up called [PickEasy](https://www.pickeasy.ca/) that won 1st place in the 2020 Summer Software Engineering course (CSCC01) at UTSC.
 
+## Demo
+https://youtu.be/ugJQrxM_FoY
+
 ## Features
 
 - Mobile-friendly and simple UI
