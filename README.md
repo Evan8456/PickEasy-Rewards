@@ -1,6 +1,6 @@
 # PickEasy Rewards <img src="https://github.com/Evan8456/PickEasy-Rewards/blob/master/pick-easy/src/favicon.ico" height="32px" alt="icon"></img>
 
-This project contains a loyalty system web app for a start-up called [PickEasy](https://www.pickeasy.ca/) that won 1st place in the 2020 Summer Software Engineering course (CSCC01) at UTSC.
+This project contains a loyalty system web app for a start-up called [PickEasy](https://pickeasy.ca/) that won 1st place in the 2020 Summer Software Engineering course (CSCC01) at UTSC.
 
 ## Demo
 https://youtu.be/ugJQrxM_FoY
