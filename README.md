@@ -46,6 +46,6 @@ https://pick-easy.herokuapp.com/
 
 3. Run command: `npm run dev`
 
-### Made by: [Luke Zhang](https://github.com/Smawllie), Evan Ng, [Anthony Alaimo](https://github.com/AnthonyAlaimo), [Pravinthan Prabagaran](https://github.com/pravinthan), [Jeremy (Chi Jian) Hsu](https://github.com/Jer3myHsu)
+### Made by: [Luke Zhang](https://github.com/Smawllie), [Evan Ng](https://github.com/Evan8456), [Anthony Alaimo](https://github.com/AnthonyAlaimo), [Pravinthan Prabagaran](https://github.com/pravinthan), [Jeremy (Chi Jian) Hsu](https://github.com/Jer3myHsu)
 
 ![Alt text](pick-easy/assets/demo1.png?raw=true "Demo")
